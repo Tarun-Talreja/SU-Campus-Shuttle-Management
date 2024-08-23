@@ -27,7 +27,3 @@ This project involved the development of a centralized application using Power A
 - **Wait Time Reduction:** Significantly reduced shuttle wait times.
 - **Enhanced Data Accuracy:** Improved data management and reduced errors.
 - **Customer Satisfaction:** Boosted customer satisfaction by 45% through accurate real-time estimates.
-
-## Contact Information
-- Email: your.email@example.com
-# SU-Campus-Shuttle-Management
